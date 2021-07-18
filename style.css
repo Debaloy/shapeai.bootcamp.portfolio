@@ -105,7 +105,7 @@ a{
 }
 
 .resume-btn{
-  widows: 190px;
+  width: 190px;
   height: 44px;
   display: flex;
   justify-content: center;
